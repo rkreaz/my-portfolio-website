@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "category": "MERN Stack",
+    "title": "Manufacturer E-Commerce Management",
+    "img": "https://asadjulhas.com/p/u/1655022891.jpg",
+    "live": "https://borak-tools.web.app/",
+    "linkClient": "https://github.com/asadjulhas/Manufacturer-E-Commerce-Management",
+    "linkServer": "https://github.com/asadjulhas/Manufacturer-E-Commerce-Management-server",
+    "features": "Users can signup or log in using email, password, or using social logins like Google, This feature is implemented using firebase authentication. BR Users are able to place an order for the tools, and also able to cancel the order before payment. and users are also able to see their own place orders on the 'dashboard/order' page with order status, But only when the user is logged in as routes are protected. BR Users are able to pay for the services, Payment system integrate using Stripe. BR Control panel implemented for Admin, But only when the Admin is logged in as routes are protected only for Admin. BR Admin able to control both orders, users, and products, Admin can cancel the unpaid orders. BR Admin able to change order status pending to shipped for paid orders, users also able see the order status 'shipped' on their order page. BR Admin able to add a product with image, update product details including stock update, minimum order limit change, and all the other info. BR Admin also makes a user Admin, Admin specific APIs/routes are protected using Jsonwebtoken and Admin role. BR User/Appointment data is stored in MongoD8. APIs are built with NodeS and ExpressJS. Admin/User-specific APIs are protected using Jsonwebtoken. BR This single-page web app is completely made with react & its router feature. It's also fully responsive for mobile and tablet devices.",
+    "technologies": "ReactJS, React router, React Bootstrap, React-Hook-Form, Firebase, Nodejs, Express.js, MongoDB, Jsonwebtoken, React-firebase-hooks, Stripe, Heroku."
+  },
+  {
+    "id": "2",
+    "category": "MERN Stack",
+    "title": "Appointment Booking",
+    "img": "https://asadjulhas.com/p/u/1655022853.png",
+    "live": "https://doctor-portal-3890e.web.app/",
+    "linkClient": "https://github.com/asadjulhas/doctors-portal-client",
+    "linkServer": "https://github.com/asadjulhas/doctors-portal-server",
+    "features": "Users can signup or log in using email, password, or using social logins like Google, This feature is implemented using firebase authentication. BR Users can book an appointment for whichever service they choose on a specific date and slot. BR Users are able to pay for the services, Payment system integrate using Stripe. BR Admin able to control both appointments, users, and doctors. BR User/Product data is stored in MongoD8. APIs are built with NodeS and ExpressJS. User-specific APIs are protected using Jsonwebtoken. BR This single-page web app is completely made with react & its router feature. It's also fully responsive for mobile and tablet devices.",
+    "technologies": "ReactS, React router, Tailwind, React-Hook-Form, Firebase, Nodejs, Express.js, MongoDB, Jsonwebtoken, React-firebase-hooks, Stripe, Heroku."
+  },
+  {
+    "id": "3",
+    "category": "MERN Stack",
+    "title": "Warehouse Management",
+    "img": "https://asadjulhas.com/p/u/1655022873.jpg",
+    "live": "https://gudam-ghor.web.app/",
+    "linkClient": "https://github.com/asadjulhas/gudam-ghor-warehouse-management-client-side",
+    "linkServer": "https://github.com/asadjulhas/gudam-ghor-warehouse-management-server-side-",
+    "features": "Users can signup or log in using email, password, or using social logins like Google, This feature is implemented using firebase authentication. BR Users are able to add/delete/stock-change of products, and users are also able to see their own added products on my item page, But only when the user is logged in as routes are protected. BR User/Product data is stored in MongoDB. APIs are built with NodeS and ExpressJS. User-specific APIs are protected using Jsonwebtoken. BR This single-page web app is completely made with react & its router feature. It's also fully responsive for mobile and tablet devices",
+    "technologies": "ReactS, React router, React Bootstrap, React-Hook-Form, Firebase, Nodejs, Express.js, MongoDB, Jsonwebtoken, React-firebase-hooks, Heroku"
+  }
+]

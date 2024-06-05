@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "62b0c5c7b2d4cef92e048c5a",
+        "category": "MERN Stack",
+        "features": "Users can signup or log in using email, password, …re is implemented using firebase authentication.BR Users are able to place an order for the tools, a…n the user is logged in as routes are protected. BR Users are able to pay for the services, Payment system integrate using Stripe. BR Control panel implemented for Admin, But only whe…ogged in as routes are protected only for Admin. BR Admin able to control both orders, users, and products, Admin can cancel the unpaid orders. BR Admin able to change order status pending to ship… the order status 'shipped' on their order page. BR Admin able to add a product with image, update pr…imum order limit change, and all the other info.BR Admin also makes a user Admin, Admin specific API…are protected using Jsonwebtoken and Admin role. BR User/Appointment data is stored in MongoD8. APIs …-specific APIs are protected using Jsonwebtoken. BR This single-page web app is completely made with …o fully responsive for mobile and tablet devices.",
+        
+        "img": "https://i.ibb.co/PGmWBfS/Screenshot-68.png",
+         
+        "linkClient": "https://github.com/rkreaz/technocy-resources-client",
+        "linkServer": "https://github.com/rkreaz/technocy-resources-server",
+        "live": " https://technocy-resources-client.web.app/",
+        "technologies": "HTML5, CSS3, Bootstrap, Jquery, PHP, OWL.CAROUSEL, ANIMATE CSS, WOW JS",
+        "title": "Manufacturer E-Commerce Management"
+    },
+    {
+        "_id": "62b0c5c7b2d4cef92e048c5b",
+        "category": "MERN Stack",
+        "features": "Users can signup or log in using email, password, …re is implemented using firebase authentication.BR Users are able to place an order for the tools, a…n the user is logged in as routes are protected. BR Users are able to pay for the services, Payment system integrate using Stripe. BR Control panel implemented for Admin, But only whe…ogged in as routes are protected only for Admin. BR Admin able to control both orders, users, and products, Admin can cancel the unpaid orders. BR Admin able to change order status pending to ship… the order status 'shipped' on their order page. BR Admin able to add a product with image, update pr…imum order limit change, and all the other info.BR Admin also makes a user Admin, Admin specific API…are protected using Jsonwebtoken and Admin role. BR User/Appointment data is stored in MongoD8. APIs …-specific APIs are protected using Jsonwebtoken. BR This single-page web app is completely made with …o fully responsive for mobile and tablet devices.",
+        "img": "https://i.ibb.co/80bDZK3/Screenshot-70.png",
+        "linkClient": "https://github.com/asadjulhas/seo-traffice-full-screen-parallax",
+        "linkServer": "https://github.com/asadjulhas/seo-traffice-full-screen-parallax",
+        "live": "https://asadjulhas.com/demos/seo-traffice/",
+        "technologies": "HTML5, CSS3, Bootstrap, Jquery, PHP, OWL.CAROUSEL, ANIMATE CSS, WOW JS",
+        "title": "Manufacturer E-Commerce Management"
+    },
+    {
+        "_id": "62b0c5c7b2d4cef92e048c5c",
+        "category": "MERN Stack",
+        "features": "Users can signup or log in using email, password, …re is implemented using firebase authentication.BR Users are able to place an order for the tools, a…n the user is logged in as routes are protected. BR Users are able to pay for the services, Payment system integrate using Stripe. BR Control panel implemented for Admin, But only whe…ogged in as routes are protected only for Admin. BR Admin able to control both orders, users, and products, Admin can cancel the unpaid orders. BR Admin able to change order status pending to ship… the order status 'shipped' on their order page. BR Admin able to add a product with image, update pr…imum order limit change, and all the other info.BR Admin also makes a user Admin, Admin specific API…are protected using Jsonwebtoken and Admin role. BR User/Appointment data is stored in MongoD8. APIs …-specific APIs are protected using Jsonwebtoken. BR This single-page web app is completely made with …o fully responsive for mobile and tablet devices.",
+        "img": "https://i.ibb.co/TWNtfhC/test-slider-with-bg-image.jpg",
+        "linkClient": "https://github.com/asadjulhas/seo-traffice-full-screen-parallax",
+        "linkServer": "https://github.com/asadjulhas/seo-traffice-full-screen-parallax",
+        "live": "https://asadjulhas.com/demos/seo-traffice/",
+        "technologies": "HTML5, CSS3, Bootstrap, Jquery, PHP, OWL.CAROUSEL, ANIMATE CSS, WOW JS",
+        "title": "Manufacturer E-Commerce Management"
+    }
+]
