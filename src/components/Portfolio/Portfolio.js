@@ -14,8 +14,6 @@ const Portfolio = () => {
         setIsLoading(false)
     }, [])
 
-    console.log(portfolio);
-
     if (isLoading) {
         return <div className='mainSpinner'><Spinner spinnerClass='' /></div>
     }
@@ -23,7 +21,7 @@ const Portfolio = () => {
 
     return (
         <>
-            <div className="rn-portfolio-area rn-section-gap section-separator">
+            <div className="rn-portfolio-area rn-section-gap section-separator" id='portfolio'>
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-12">

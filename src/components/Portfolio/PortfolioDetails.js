@@ -2,8 +2,7 @@ import React from 'react';
 
 const PortfolioDetails = ({details}) => {
   const {title, category, img, live, linkClient, linkServer, features, technologies} = details;
-  const spilitTitle = features?.split('BR');
-  console.log(spilitTitle);
+  const splitTitle = features?.split('BR');
   return (
     <div className="modal fade" id="exampleModalCenter" tabIndex="-1" role="dialog" aria-hidden="true">
             <div className="modal-dialog modal-dialog-centered" role="document">
@@ -33,7 +32,7 @@ const PortfolioDetails = ({details}) => {
 
                                     <div className="mb--30">
                                      <ul className='features_list'>
-                                     {spilitTitle?.length > 0 ? spilitTitle.map((title, index) => <li key={index}>{title}</li>) : ''}
+                                     {splitTitle?.length > 0 ? splitTitle.map((title, index) => <li key={index}>{title}</li>) : ''}
                                      </ul>
 
                                       {technologies ? <span className='tec_used'><br /><b>Technologies Used:</b> {technologies}</span> : ''}

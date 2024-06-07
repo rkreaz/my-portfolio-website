@@ -46,7 +46,7 @@ const Contact = () => {
 
     console.log(sendMessage)
 
-    axios.post("https://backend.asadjulhas.com/contact", sendMessage, {
+    axios.post("https://my-portfolio-serversite.vercel.app/cliantMessage", sendMessage, {
                   })
                   .then((res) => {
                     if (res.data.message) {
@@ -92,9 +92,11 @@ const Contact = () => {
                     <div className="social-area">
                         <div className="name">FIND WITH ME</div>
                         <div className="social-icone footer_social">
-                        <a title='Linkedin' href="https://www.linkedin.com/in/asadjulhas/"><i className="fa fa-linkedin" aria-hidden="true"></i></a>
-                        <a title='Github' href="https://github.com/asadjulhas"><i className="fa fa-github" aria-hidden="true"></i></a>
-                        <a title='Facebook' href="https://www.facebook.com/asadjulha/"><i className="fa fa-facebook" aria-hidden="true"></i></a>
+                        <a title='Linkedin' href="https://www.linkedin.com/in/rezaul-karim-reaz-445379249/" target='_blank'><i className="fa fa-linkedin" aria-hidden="true"></i></a>
+
+                        <a title='Github' href="https://github.com/rkreaz" target='_blank'><i className="fa fa-github" aria-hidden="true"></i></a>
+
+                        <a title='Facebook' href="https://www.facebook.com/rezaulkarimreazz" target='_blank'><i className="fa fa-facebook" aria-hidden="true"></i></a>
                                                 
                         </div>
                     </div>

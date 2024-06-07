@@ -26,7 +26,7 @@ const MyResume = () => {
                                 <a className="nav-link active" id="experience-tab" data-bs-toggle="tab" href="#experience" role="tab" aria-controls="experience" aria-selected="false">experience</a>
                             </li>
                             <li className="nav-item">
-                                <a target={"_blank"} className="nav-link" href="https://drive.google.com/file/d/17XvYRav-1PD76STJmfVtDlrUiHz6_kPi/view?usp=sharing" aria-selected="false">Download resume</a>
+                                <a target={"_blank"} className="nav-link" href="https://drive.google.com/file/d/1NifpRF8TyORyq6bX8zeT_8QY8fEUruMS/view" aria-selected="false">Download resume</a>
                             </li>
                         </ul>
 
@@ -46,7 +46,7 @@ const MyResume = () => {
                                                         <div className="inner">
                                                             <div className="heading">
                                                                 <div className="title">
-                                                                    <h4>Bachelor of Science - Chemistry</h4>
+                                                                    <h4 className='education_title'>Bachelor of Science - Chemistry</h4>
                                                                     <span>National university of Bangladesh (2013 - 2019)</span>
                                                                 </div>
                                                                 <div className="date-of-time">
@@ -54,7 +54,7 @@ const MyResume = () => {
                                                                 </div>
                                                             </div>
                                                             <p className="description">
-                                                            I completed 4 years of B.Sc degree. My CGPA is 3.01 out of 4. & Masters of Science in Chemistry. My CGPA is 2.87 out of 4. in Chemistry from the National University of Bangladesh, Chemistry is cutting across the edge of all aspects of engineering, information technology, biology, medicine, economics, finance, accounting and even sociology.
+                                                            I completed 4 years of B.Sc degree. My CGPA is 3.01 out of 4. & Masters of Science in Chemistry. My CGPA is 2.87 out of 4. in Chemistry from the National University of Bangladesh. 
                                                             </p>
                                                         </div>
                                                     </div>
@@ -113,7 +113,7 @@ const MyResume = () => {
                                                                 </div>
                                                             </div>
                                                             <p className="description">
-                                                            I have worked as a full-time freelance web Developer On UpWork since 2022. I have been working remotely on projects for clients all over the world since 2022. 
+                                                            I have worked as a full-time freelance web Developer On UpWork since 2022. I have been working remotely on projects for clients all over the world since 2022. I completed 50+ projects on Programming Hero. and I'm also a  Freelancer on Upwork.
                                                             </p>
                                                         </div>
                                                     </div>
@@ -303,7 +303,7 @@ const MyResume = () => {
                                                                 </div>
                                                             </div>
                                                             <p className="description">
-                                                            I have worked as a full-time freelance web Developer On UpWork since 2022. I have been working remotely on projects for clients all over the world since 2022.
+                                                            I have worked as a full-time freelance web Developer On UpWork since 2022. I have been working remotely on projects for clients all over the world since 2022. I completed 50+ projects on Programming Hero. and I'm also a  Freelancer on Upwork.
                                                             </p>
                                                         </div>
                                                     </div>
@@ -323,7 +323,7 @@ const MyResume = () => {
                                                         <div className="inner">
                                                             <div className="heading">
                                                                 <div className="title">
-                                                                    <h4>Bachelor of Science - Chemistry</h4>
+                                                                    <h4 className='education_title'>Bachelor of Science - Chemistry</h4>
                                                                     <span>National university of Bangladesh (2013 - 2019)</span>
                                                                 </div>
                                                                 <div className="date-of-time">
@@ -331,7 +331,7 @@ const MyResume = () => {
                                                                 </div>
                                                             </div>
                                                             <p className="description">
-                                                            I completed 4 years of B.Sc degree. My CGPA is 3.01 out of 4. & Masters of Science in Chemistry. My CGPA is 2.87 out of 4. in Chemistry from the National University of Bangladesh, Chemistry is cutting across the edge of all aspects of engineering, information technology, biology, medicine, economics, finance, accounting and even sociology.
+                                                            I completed 4 years of B.Sc degree. My CGPA is 3.01 out of 4. & Masters of Science in Chemistry. My CGPA is 2.87 out of 4. in Chemistry from the National University of Bangladesh. 
                                                             </p>
                                                         </div>
                                                     </div>

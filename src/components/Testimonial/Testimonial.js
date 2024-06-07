@@ -1,6 +1,6 @@
 import React from 'react';
 import ratingIcon from '../../assets/images/icons/rating.png';
-import dianaAdams from '../../assets/images/client/diana-adams.jpg';
+import dianaAdams from '../../assets/images/client/cat-1.jpg';
 
 
 const Testimonial = () => {
@@ -36,7 +36,7 @@ const Testimonial = () => {
                                         <div className="title-area">
                                             <div className="title-info">
                                                 <h3 className="title">Web App Development</h3>
-                                                <span className="date">via Upwork - Mar 3, 2020 - Aug 03, 2022</span>
+                                                <span className="date">via Upwork - Mar 3, 2023 - 2024</span>
                                             </div>
                                             <div className="rating">
                                                 <img src={ratingIcon} alt="rating-image" />&nbsp;
