@@ -51,7 +51,7 @@ const Features = () => {
                                 </div>
                                 <div className="content">
                                     <h4 className="title">Expertise</h4>
-                                    <p className="description">JavaScript, ES6, React, Node's, Express's, React Hook, React Router, Rest API, Firebase, Tailwind, Bootstrap5,</p>
+                                    <p className="description">JavaScript, ES6, React, Node's, Express's, React Hook, React Router, Rest API, Firebase, Tailwind, Bootstrap5.</p>
                                     <span className="read-more-button"><i className="feather-arrow-right"></i></span>
                                 </div>
                             </div>
@@ -66,7 +66,7 @@ const Features = () => {
                                 </div>
                                 <div className="content">
                                     <h4 className="title">Comfortable</h4>
-                                    <p className="description">MongoDB, JWT,<br /> <b>Tools:</b> Github, Figma, Photoshop, npm</p>
+                                    <p className="description">MongoDB, JWT.<br /> <b>Tools:</b> Github, Figma, Photoshop, npm.</p>
                                     <span className="read-more-button"><i className="feather-arrow-right"></i></span>
                                 </div>
                             </div>
@@ -81,7 +81,7 @@ const Features = () => {
                                 </div>
                                 <div className="content">
                                     <h4 className="title">Familiar</h4>
-                                    <p className="description">TypeScript<br /> <b>Tools:</b> Netlify, VS Code</p>
+                                    <p className="description">Next.Js, Redux.<br /> <b>Tools:</b> Netlify, VS Code.</p>
                                     <span className="read-more-button"><i className="feather-arrow-right"></i></span>
                                 </div>
                             </div>

@@ -24,19 +24,18 @@ const Testimonial = () => {
                                 <div className="inner">
                                     <div className="card-info">
                                         <div className="card-thumbnail">
-                                            <img src={dianaAdams} alt="Diana Adams" />
+                                            <img src={dianaAdams} alt="Jenny Huynh" />
                                         </div>
                                         <div className="card-content">
-                                            <span className="subtitle mt--10">Adams Consulting Group</span>
-                                            <h3 className="title">Diana Adams</h3>
+                                            <span className="subtitle mt--10">Robert Half International</span>
+                                            <h3 className="title">Jenny Huynh</h3>
                                             <span className="designation">Chief Marketing Officer</span>
                                         </div>
                                     </div>
                                     <div className="card-description">
                                         <div className="title-area">
                                             <div className="title-info">
-                                                <h3 className="title">Web App Development</h3>
-                                                <span className="date">via Upwork - Mar 3, 2023 - 2024</span>
+                                                <h3 className="title">Web Development</h3>
                                             </div>
                                             <div className="rating">
                                                 <img src={ratingIcon} alt="rating-image" />&nbsp;
@@ -48,7 +47,7 @@ const Testimonial = () => {
                                         </div>
                                         <div className="seperator"></div>
                                         <p className="discription">
-                                            This is the only person I'll use for our company's Web developer. He is very talented, and he goes above and beyond to help with all the extra details. It's not obvious how to get them to display properly, especially when everyone is using different devices. He knows how to streamline the process. ⭐️⭐️⭐️⭐️⭐️
+                                        Great customer service! I had to make a change to my order and the customer service was extremely helpful and responded quickly. They adjusted my order without issue. ⭐️⭐️⭐️⭐️⭐️
                                             .
                                         </p>
                                     </div>

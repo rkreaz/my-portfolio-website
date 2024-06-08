@@ -8,7 +8,7 @@
         "linkServer": "https://github.com/rkreaz/technocy-resources-server",
         "live": " https://technocy-resources-client.web.app/",
         "technologies": "ReactJS, React router, Tailwindcss, Daisyui, React-rating, React-stripe-js, Tanstack-query, Aos, Axios, React-captcha, React-countdown, React-marquee, React-helmet, React-Hook-Form, Firebase, React-icons, Recharts, Sweetalert2, Swiper, Nodejs, Express.js, MongoDB, Jsonwebtoken, React-firebase-hooks, Stripe.",
-        "title": "Manufacturer E-Commerce Management"
+        "title": "Technology resource website."
     },
     {
         "_id": "62b0c5c7b2d4cef92e048c5b",
@@ -19,6 +19,6 @@
         "linkServer": "https://github.com/rkreaz/bistro-boss-restaurant-server",
         "live": "https://bistro-boss-restaurant-c-efd39.web.app/",
         "technologies": "ReactJS, React router, Tailwindcss, Daisyui, React-rating, React-stripe-js, Tanstack-query, Aos, Axios, React-captcha, React-countdown, React-marquee, React-helmet, React-Hook-Form, Firebase, React-icons, Recharts, Sweetalert2, Swiper, Nodejs, Express.js, MongoDB, Jsonwebtoken, React-firebase-hooks, Stripe.",
-        "title": "Restaurant serving delicious food"
+        "title": "Restaurant serving delicious food."
     }
 ]

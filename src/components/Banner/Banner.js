@@ -76,6 +76,7 @@ const Banner = () => {
                           <a
                             title="Linkedin"
                             href="https://www.linkedin.com/in/rezaul-karim-reaz-445379249/"
+                            target="{_blank}"
                           >
                             <i
                               className="fa fa-linkedin"
@@ -87,6 +88,7 @@ const Banner = () => {
                           <a
                             title="Github"
                             href="https://github.com/rkreaz"
+                             target="{_blank}"
                           >
                             <i className="fa fa-github" aria-hidden="true"></i>
                           </a>
@@ -95,6 +97,7 @@ const Banner = () => {
                           <a
                             title="Facebook"
                             href="https://www.facebook.com/rezaulkarimreazz"
+                             target="{_blank}"
                           >
                             <i
                               className="fa fa-facebook"

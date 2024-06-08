@@ -1,3 +1,13 @@
 .social-share li a i {
 	color: var(--color-body-white);
 }
+.slide .content .inner .title {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 40px !important;
+    line-height: 60px !important;
+    margin-bottom: 22px;
+    font-family: var(--font-secondary);
+	margin-top: 40px; 
+	margin-bottom: 40px;
+}

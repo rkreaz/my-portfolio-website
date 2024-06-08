@@ -32,8 +32,8 @@ const Portfolio = () => {
                         </div>
                     </div>
 
-                    <div className="row row--25 mt--10 mt_md--10 mt_sm--10">
-                        {portfolio?.map(p => <div key={p._id} data-aos="fade-up" data-aos-delay="100" data-aos-once="true" className="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
+                    <div className="row row--25 mt--10 mt_md--10 mt_sm--10 ">
+                        {portfolio?.map(p => <div key={p._id} data-aos="fade-up" data-aos-delay="100" data-aos-once="true" className="col-lg-6 col-xl-6 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30 ">
                             <div className="rn-portfolio" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
                                 <div className="inner">
                                     <div className="thumbnail">
