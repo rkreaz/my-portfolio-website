@@ -34,7 +34,7 @@ const Banner = () => {
                 <div className="inner">
                   <span className="subtitle">Welcome to my world</span>
                   <h1 className="title banner_text">
-                    Hi, I'm <span>Rezaul Karim Reaz</span>
+                    Hi, I'm <span>Md Rejaul Karim</span>
                     <br />
                     <span className="header-caption" id="page-top">
                       <span className="cd-headline clip is-full-width">
@@ -75,7 +75,7 @@ const Banner = () => {
                         <li className="instagram">
                           <a
                             title="Linkedin"
-                            href="https://www.linkedin.com/in/rezaul-karim-reaz-445379249/"
+                            href="https://www.linkedin.com/in/rejaul-karim-b2b174313/"
                             target="{_blank}"
                           >
                             <i

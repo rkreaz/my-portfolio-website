@@ -92,7 +92,7 @@ const Contact = () => {
                     <div className="social-area">
                         <div className="name">FIND WITH ME</div>
                         <div className="social-icone footer_social">
-                        <a title='Linkedin' href="https://www.linkedin.com/in/rezaul-karim-reaz-445379249/" target='_blank'><i className="fa fa-linkedin" aria-hidden="true"></i></a>
+                        <a title='Linkedin' href="https://www.linkedin.com/in/rejaul-karim-b2b174313/" target='_blank'><i className="fa fa-linkedin" aria-hidden="true"></i></a>
 
                         <a title='Github' href="https://github.com/rkreaz" target='_blank'><i className="fa fa-github" aria-hidden="true"></i></a>
 

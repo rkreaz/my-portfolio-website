@@ -26,7 +26,7 @@ const MyResume = () => {
                                 <a className="nav-link active" id="experience-tab" data-bs-toggle="tab" href="#experience" role="tab" aria-controls="experience" aria-selected="false">experience</a>
                             </li>
                             <li className="nav-item">
-                                <a target={"_blank"} className="nav-link" href="https://drive.google.com/file/d/13YrYAPXr4xykYswjiVyR6KmEnziUqg31/view" aria-selected="false">Download resume</a>
+                                <a target={"_blank"} className="nav-link" href="https://drive.google.com/file/d/1rHo7lc-nQShf_vNyXnw_XXtC-U9ROfZE/view" aria-selected="false">Download resume</a>
                             </li>
                         </ul>
 
